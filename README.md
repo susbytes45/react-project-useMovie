@@ -1,0 +1,1 @@
+A useMovie app made just for practise react which basically fetches data from omdb api and displays it and we can create a watched movie playlist It will shows us all the details abt movie and can store our ratings as well
